@@ -7,6 +7,11 @@
     position: relative;
     border-radius: 5em;
     
+    
+  }
+  body{
+    padding-top: 15em;
+    padding-left: 40em;
   }
   .button:before,
   .button:after {
